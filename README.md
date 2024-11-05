@@ -52,5 +52,8 @@
 </p>
 
 
-<!-- Snake animation -->
+# Hi 👋, I'm Promojit Paul
+A passionate SDET QA Engineer dedicated to ensuring software quality and excellence through automation and innovative testing strategies.
+
+<!-- Snake Animation -->
 <img src="https://github.com/PromojitPaul/PromojitPaul/blob/output/snake.svg" alt="Snake animation" />
