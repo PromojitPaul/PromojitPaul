@@ -1,5 +1,5 @@
 <!-- Welcome Section -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Promojit Paul</h1>
 <h3 align="center">A passionate software developer with a love for building impactful projects and exploring the world of technology!</h3>
 
 <!-- Profile Views and Social Media Badges -->
