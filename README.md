@@ -52,4 +52,7 @@
 </p>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/PromojitPaul/PromojitPaul/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/PromojitPaul/PromojitPaul/output/snake.svg" alt="Snake animation" />
+
+###
+<!--[Snake animation](https://github.com/PromojitPaul/PromojitPaul/blob/output/github-contribution-grid-snake.svg)>
