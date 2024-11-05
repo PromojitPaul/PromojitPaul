@@ -52,6 +52,8 @@
 </p>
 
 <!-- Snake Animation -->
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/PromojitPaul/PromojitPaul/output/snake.svg" alt="Snake animation" />
 
 ###
