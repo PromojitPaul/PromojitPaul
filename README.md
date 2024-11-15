@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Crowd Testing RentenPe using Bugasura**
 - 🤔 I’m looking for help with **advanced QA challenges or test automation strategies**
 - 💬 Ask me about **Automation Testing, CI/CD, or Software Testing Best Practices**
-- 📫 How to reach me **promojit.paul@example.com**
+- 📫 How to reach me **promojit.paul@gmail.com**
 - ⚡ Fun fact: **Automated testing can detect issues faster than manual testing, making it a time-saving superhero!**
 
 ---
