@@ -5,7 +5,7 @@
 <!-- Profile Views and Social Media Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PromojitPaul&label=Profile%20views&color=0e75b6&style=flat" alt="PromojitPaul" />
-  <a href="https://x.com/PromojitPaul" target="blank"><img src="https://img.shields.io/twitter/follow/PromojitPaul?logo=twitter&style=for-the-badge" alt="PromojitPaul Twitter" /></a>
+  <a href="https://x.com/PromojitPaul" target="blank"><img src="https://img.shields.io/twitter/follow/PromojitPaul?logo=x&style=for-the-badge" alt="PromojitPaul Twitter" /></a>
 </p>
 
 ---
@@ -33,26 +33,15 @@
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
 
-#### 🛠 DevOps Tools:
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
-</p>
-
 #### 🧪 Testing & QA Tools:
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="JMeter" width="40" height="40"/> </a>
-  <a href="https://cucumber.io/" target="_blank"> <img src="https://cucumber.io/images/open-graph-logo.png" alt="Cucumber" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="Cypress" width="40" height="40"/> </a>
 </p>
 
 #### 💼 Software Tools:
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a>
-  <a href="https://www.xmind.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/xmind/xmind-icon.svg" alt="Xmind" width="40" height="40"/> </a>
 </p>
 
 #### 🌐 Version Control:
