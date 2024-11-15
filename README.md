@@ -69,9 +69,11 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ### 🔧 **Other Tools**:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Jenkins_logo.svg" alt="Jenkins" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+ </a>
 </p>
 
 ---
@@ -92,12 +94,22 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ---
 
 ## 🤝 Connect with Me:
-- **LinkedIn**: [Promojit Paul](https://www.linkedin.com/in/promojitpaul/)
-- **Twitter**: [@PromojitPaul](https://twitter.com/PromojitPaul)
-- **GitHub**: [PromojitPaul](https://github.com/PromojitPaul)
-- **Email**: [promojit.paul@gmail.com](mailto:promojit.paul@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/promojitpaul/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/PromojitPaul" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://github.com/PromojitPaul" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="mailto:promojit.paul@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail-original.svg" alt="Email" height="40" width="40" />
+  </a>
+</p>
 
----
+
 
 <!-- Fun Element -->
 ![Snake animation](https://github.com/PromojitPaul/PromojitPaul/blob/output/snake.svg)
