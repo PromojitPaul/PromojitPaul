@@ -56,11 +56,6 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
     <a href="https://www.postman.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://jmeter.apache.org/" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Apache_JMeter_logo.svg" alt="JMeter" width="40" height="40"/> 
-
-    
   </div>
 </p>
 
@@ -103,9 +98,6 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
   </a>
   <a href="https://github.com/PromojitPaul" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-  </a>
-  <a href="mailto:promojit.paul@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail-original.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
 
