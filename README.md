@@ -37,6 +37,10 @@
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="JMeter" width="40" height="40"/> </a>
+  <a href="https://cucumber.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="Cypress" width="40" height="40"/> </a>
+  <a href="https://www.xmind.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Xmind_logo.png" alt="XMind" width="40" height="40"/> </a>
 </p>
 
 #### 💼 Software Tools:
