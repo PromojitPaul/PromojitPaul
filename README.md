@@ -46,8 +46,8 @@
 
 <!-- Connect with Me -->
 ### 🤝 Connect with Me:
-- **LinkedIn**: [Promojit Paul](https://linkedin.com/in/your-linkedin-profile)
-- **Twitter**: [@your-twitter-username](https://twitter.com/your-twitter-username)
+- **LinkedIn**: [Promojit Paul](https://www.linkedin.com/in/promojitpaul/)
+- **Twitter**: [@your-twitter-username](https://x.com/PromojitPaul)
 - **GitHub**: [PromojitPaul](https://github.com/PromojitPaul)
 
 ---
