@@ -10,12 +10,12 @@
 
 <!-- About Me -->
 - 🔭 I’m currently working on **[Your Current QA Project/Framework]**
-- 🌱 I’m currently learning **[Testing Tools or Programming Languages]**
-- 👯 I’m looking to collaborate on **[Open Source QA Projects or Automation Frameworks]**
-- 🤔 I’m looking for help with **[Specific QA Challenges or Test Strategies]**
-- 💬 Ask me about **[Automation Testing, CI/CD, or Software Testing Best Practices]**
+- 🌱 I’m currently learning **Selenium, Postman, JMeter**
+- 👯 I’m looking to collaborate on **Crowd Testing for RentenPe using Bugasura**
+- 🤔 I’m looking for help with **Advanced QA strategies or automation challenges**
+- 💬 Ask me about **Automation Testing, CI/CD, and Software Testing Best Practices**
 - 📫 How to reach me **[your.email@example.com]**
-- ⚡ Fun fact: **[Interesting Fact Related to QA or Software Testing]**
+- ⚡ Fun fact: **An automated test case can save hours of manual effort, ensuring efficiency and consistency**
 
 <!-- Skills Section -->
 <h2 align="left">🔧 Technologies & Tools:</h2>
@@ -50,10 +50,6 @@
   <a href="https://instagram.com/your-instagram-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/your-hackerrank-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="your-hackerrank-username" height="30" width="40" /></a>
 </p>
-
-
-# Hi 👋, I'm Promojit Paul
-A passionate SDET QA Engineer dedicated to ensuring software quality and excellence through automation and innovative testing strategies.
 
 <!-- Snake Animation -->
 <img src="https://github.com/PromojitPaul/PromojitPaul/blob/output/snake.svg" alt="Snake animation" />
