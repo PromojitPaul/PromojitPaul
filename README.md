@@ -40,16 +40,31 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 
 ### 🧪 **Testing & QA Tools**:
 <p align="left">
-<div align="left">  
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <div align="left">  
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://cucumber.io/" target="_blank">
+      <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.selenium.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" /> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.postman.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://jmeter.apache.org/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Apache_JMeter_logo.svg" alt="JMeter" width="40" height="40"/> 
 
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Apache_JMeter_logo.svg" alt="JMeter" width="40" height="40"/> </a>
+    
   </div>
 </p>
+
+
 
 ### 🔧 **Other Tools**:
 <p align="left">
