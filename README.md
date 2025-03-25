@@ -69,7 +69,9 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
  </a>
 </p>
+
 ---
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PromojitPaul&show_icons=true&theme=radical" alt="PromojitPaul GitHub Stats" />
