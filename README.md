@@ -95,12 +95,9 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
   <a href="https://twitter.com/PromojitPaul" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://github.com/PromojitPaul" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-  </a>
 </p>
 
 
 
 <!-- Fun Element -->
-![Snake animation](https://github.com/PromojitPaul/PromojitPaul/blob/output/snake.svg)
+
