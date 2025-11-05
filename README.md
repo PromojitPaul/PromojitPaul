@@ -75,7 +75,7 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PromojitPaul&show_icons=true&theme=radical" alt="PromojitPaul GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromojitPaul&theme=radical" alt="PromojitPaul Streak Stats" />
+
 </p>
 
 ---
