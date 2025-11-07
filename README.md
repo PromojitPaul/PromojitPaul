@@ -12,13 +12,12 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ---
 
 ## About Me:
-- 🔭 I’m currently working on **building and optimizing QA frameworks**
-- 🌱 I’m currently learning **Selenium, Postman, and JMeter**
-- 👯 I’m looking to collaborate on **Crowd Testing RentenPe using Bugasura**
-- 🤔 I’m looking for help with **advanced QA challenges or test automation strategies**
-- 💬 Ask me about **Automation Testing, CI/CD, or Software Testing Best Practices**
-- 📫 How to reach me: **promojit.paul@gmail.com**
-- ⚡ Fun fact: **Automated testing can detect issues faster than manual testing, making it a time-saving superhero!**
+- 💻 I'm a **Software Development Engineer in Test (SDET)** passionate about building intelligent QA automation frameworks.  
+- 🚀 Experienced with **Playwright MCP**, **Testomat.io**, and AI-driven tools like **Stagehand** and **Shortest** for smart, scalable testing.  
+- 🧠 Skilled in **Selenium**, **Postman**, and **JMeter** for automation, API, and performance testing.  
+- 🧩 Love creating **Xmind mind maps** to visualize test strategies and streamline QA planning.  
+- 🤝 Open to collaborating on **QA innovation projects** and discussing **modern test automation practices**.  
+- 📫 Reach me at **promojit.paul@gmail.com**  
 
 ---
 
