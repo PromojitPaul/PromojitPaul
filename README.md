@@ -25,49 +25,114 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 
 ### 🖥️ **Programming Languages**:
 <p align="left">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
 </p>
 
+---
 
-### 🧪 **Testing & QA Tools**:
+### 🧪 **Test Automation Tools**:
 <p align="left">
-  <div align="left">  
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://cucumber.io/" target="_blank">
-      <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.selenium.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" /> 
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.postman.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-    </a>
-  </div>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="40" alt="Cypress logo" />
+  </a>
+  <img width="12" />
+  <a href="https://appium.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Appium.svg" height="40" alt="Appium logo" />
+  </a>
+  <img width="12" />
+  <a href="https://cucumber.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber logo" />
+  </a>
 </p>
 
+---
 
-
-### 🔧 **Other Tools**:
+### 🔗 **API Testing**:
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
- </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
+  </a>
+  <img width="12" />
+  <a href="https://rest-assured.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" height="40" alt="REST Assured logo" />
+  </a>
 </p>
+
+---
+
+### ⚙️ **Performance Testing**:
+<p align="left">
+  <a href="https://jmeter.apache.org/" target="_blank">
+    <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo" />
+  </a>
+  <img width="12" />
+  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Lighthouse_Logo.svg" height="40" alt="Lighthouse logo" />
+  </a>
+</p>
+
+---
+
+### 📋 **Test Management & Bug Tracking**:
+<p align="left">
+  <a href="https://testomat.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/testomatio/logo/main/testomat.io-logo.svg" height="40" alt="Testomat.io logo" />
+  </a>
+  <img width="12" />
+  <a href="https://clickup.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="40" alt="ClickUp logo" />
+  </a>
+  <img width="12" />
+  <a href="https://linear.app/" target="_blank">
+    <img src="https://seeklogo.com/images/L/linear-logo-28A3C4EBB9-seeklogo.com.png" height="40" alt="Linear logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
+  </a>
+  <img width="12" />
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
+  </a>
+</p>
+
+---
+
+### 🤖 **AI & Modern QA Tools**:
+<p align="left">
+  <a href="https://stagehand.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/159698867?s=200&v=4" height="40" alt="Stagehand logo" />
+  </a>
+  <img width="12" />
+  <a href="https://shortest.com/" target="_blank">
+    <img src="https://shortest.com/_next/image?url=%2Fshortest-icon.png&w=64&q=75" height="40" alt="Shortest logo" />
+  </a>
+</p>
+
+---
+
+### 🧭 **Mind Mapping & Test Design**:
+<p align="left">
+  <a href="https://xmind.app/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Xmind_logo_2020.svg" height="40" alt="XMind logo" />
+  </a>
+</p>
+
+
 
 ---
 
