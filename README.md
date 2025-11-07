@@ -22,6 +22,7 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ---
 
 ## 🔧 Technologies & Tools:
+---
 
 ### 🖥️ **Programming Languages**:
 <p align="left">
@@ -50,12 +51,12 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="40" alt="Cypress logo" />
   </a>
   <img width="12" />
-  <a href="https://appium.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Appium.svg" height="40" alt="Appium logo" />
-  </a>
-  <img width="12" />
   <a href="https://cucumber.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber logo" />
+  </a>
+  <img width="12" />
+  <a href="https://jmeter.apache.org/" target="_blank">
+    <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo" />
   </a>
 </p>
 
@@ -74,31 +75,10 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 
 ---
 
-### ⚙️ **Performance Testing**:
+### 📋 **Project Management & Bug Tracking**:
 <p align="left">
-  <a href="https://jmeter.apache.org/" target="_blank">
-    <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Lighthouse_Logo.svg" height="40" alt="Lighthouse logo" />
-  </a>
-</p>
-
----
-
-### 📋 **Test Management & Bug Tracking**:
-<p align="left">
-  <a href="https://testomat.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/testomatio/logo/main/testomat.io-logo.svg" height="40" alt="Testomat.io logo" />
-  </a>
-  <img width="12" />
   <a href="https://clickup.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="40" alt="ClickUp logo" />
-  </a>
-  <img width="12" />
-  <a href="https://linear.app/" target="_blank">
-    <img src="https://seeklogo.com/images/L/linear-logo-28A3C4EBB9-seeklogo.com.png" height="40" alt="Linear logo" />
   </a>
   <img width="12" />
   <a href="https://www.atlassian.com/software/jira" target="_blank">
@@ -110,29 +90,10 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
   </a>
 </p>
 
----
 
-### 🤖 **AI & Modern QA Tools**:
-<p align="left">
-  <a href="https://stagehand.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/159698867?s=200&v=4" height="40" alt="Stagehand logo" />
-  </a>
-  <img width="12" />
-  <a href="https://shortest.com/" target="_blank">
-    <img src="https://shortest.com/_next/image?url=%2Fshortest-icon.png&w=64&q=75" height="40" alt="Shortest logo" />
-  </a>
-</p>
+
 
 ---
-
-### 🧭 **Mind Mapping & Test Design**:
-<p align="left">
-  <a href="https://xmind.app/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Xmind_logo_2020.svg" height="40" alt="XMind logo" />
-  </a>
-</p>
-
-
 
 ---
 
