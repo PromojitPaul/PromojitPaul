@@ -14,7 +14,6 @@ A passionate **Software Development Engineer in Test (SDET)** dedicated to ensur
 ## About Me:
 - 💻 I'm a **Software Development Engineer in Test (SDET)** passionate about building intelligent QA automation frameworks.  
 - 🚀 Experienced with **Playwright MCP**, **Testomat.io**, and AI-driven tools like **Stagehand** and **Shortest** for smart, scalable testing.  
-- 🧠 Skilled in **Selenium**, **Postman**, and **JMeter** for automation, API, and performance testing.  
 - 🧩 Love creating **Xmind mind maps** to visualize test strategies and streamline QA planning.  
 - 🤝 Open to collaborating on **QA innovation projects** and discussing **modern test automation practices**.  
 - 📫 Reach me at **promojit.paul@gmail.com**  
